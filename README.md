@@ -1,4 +1,6 @@
-<img align="left" height="200" src="https://github.com/CzarDos/czardos/blob/main/czardosstanding.png?raw=true"  />
+<br clear="both">
+
+<img align="right" height="200" src="https://raw.githubusercontent.com/CzarDos/czardos/refs/heads/main/czardosstanding.png"  />
 
 ###
 
@@ -15,7 +17,7 @@
 
 ###
 
-<h1 align="center">💻 Tech Stack</h1>
+<h1 align="left">💻 Tech Stack</h1>
 
 ###
 
@@ -45,6 +47,12 @@
 
 ###
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -56,16 +64,12 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CzarDos.CzarDos&"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/CzarDos/CzarDos/output/snake.svg" alt="Snake animation" />
 
