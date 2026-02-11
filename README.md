@@ -1,23 +1,24 @@
 <br clear="both">
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/CzarDos/czardos/refs/heads/main/czardosstanding.png"  />
+<img align="right" height="350" src="https://github.com/CzarDos/czardos/blob/main/czarstanding.png?raw=true"  />
 
 ###
 
-<h3 align="center">hey there 👋 I am Dos</h3>
+<h3 align="center" style="font-size: 2em; font-weight: 700;">Hey there 👋 I am Dos</h3>
+
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="20" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="20" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="32" height="20" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
 </div>
 
 ###
 
-<h4 align="left">💻 Tech Stack</h4>
+<h3 align="left" style="font-size: 2em; font-weight: 700;">💻 Tech Stack</h3>
 
 ###
 
@@ -47,11 +48,15 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R3YnllZnBjaGMweHI1Z2VxcjR0Mm9saGlnNnlhZTcxNDV5dXJsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 
 ###
+
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNwZmxsbzJpYms3czQ5eTk4aGR1eXE5NXBtOGR2NHczZDk0ZzNoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+
+###
+
+<br clear="both">
 
 <h3 align="left">🔥   My Stats :</h3>
 
