@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I am Dos</h1>
+<h3 align="center">hey there 👋 I am Dos</h3>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="left">💻 Tech Stack</h1>
+<h4 align="left">💻 Tech Stack</h4>
 
 ###
 
