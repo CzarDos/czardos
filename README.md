@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="left">💻 Tech Stack</h1>
+<h1 align="center">💻 Tech Stack</h1>
 
 ###
 
@@ -61,16 +61,12 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CzarDos/CzarDos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CzarDos/CzarDos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CzarDos/CzarDos/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CzarDos.CzarDos&"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/CzarDos/CzarDos/output/snake.svg" alt="Snake animation" />
 
 ###
