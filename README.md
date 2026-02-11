@@ -4,8 +4,7 @@
 
 ###
 
-<h3 align="center" style="font-size: 2em; font-weight: 700;">Hey there 👋 I am Dos</h3>
-
+<h1 align="center">Hey there 👋 I am Dos</h1>
 
 ###
 
@@ -18,7 +17,7 @@
 
 ###
 
-<h3 align="left" style="font-size: 2em; font-weight: 700;">💻 Tech Stack</h3>
+<h2 align="left">💻 Tech Stack</h2>
 
 ###
 
