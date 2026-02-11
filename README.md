@@ -1,16 +1,76 @@
-## Hi there 👋
+<img align="left" height="200" src="https://github.com/CzarDos/czardos/blob/main/czardosstanding.png?raw=true"  />
 
-<!--
-**CzarDos/czardos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">hey there 👋 I am Dos</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="20" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="20" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="32" height="20" alt="youtube logo"  />
+</div>
+
+###
+
+<h1 align="left">💻 Tech Stack</h1>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="49" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="49" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=html" height="49" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=css" height="49" alt="css logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="49" alt="laravel logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=php" height="49" alt="php logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="49" alt="dot-net logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="49" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ts" height="49" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=angular" height="49" alt="angularjs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="49" alt="bootstrap logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CzarDos&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CzarDos/CzarDos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CzarDos/CzarDos/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CzarDos/CzarDos/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CzarDos.CzarDos&"  />
+</div>
+
+###
